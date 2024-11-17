@@ -31,4 +31,4 @@ License:
 This project is licensed under the MIT License.
 
 Acknowledgments:
-This project was inspired by the desire to practice HTML, CSS, and Bootstrap and learn more about frontend web development. It is a work in progress and will be further refined and enhanced in the future.
+This project was inspired by the desire to practice HTML, CSS, and Javascript and learn more about frontend web development. It is a work in progress and will be further refined and enhanced in the future.
