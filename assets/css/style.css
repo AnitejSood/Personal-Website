@@ -1,6 +1,25 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #0a3d62; /* Dark blue background for the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3c6382; /* Light blue color for the slider */
+  border-radius: 10px; /* Rounded corners */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1e5799; /* Slightly darker shade on hover */
+}
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
